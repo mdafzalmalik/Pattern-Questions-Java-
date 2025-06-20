@@ -16,7 +16,7 @@ public class Pattern23 {
 			// printing spaces
 			int space = 1;
 			while(space <= no_of_spaces) {
-				System.err.print("  ");
+				System.out.print("  ");
 				space++;
 			}
 			// printing 1's
