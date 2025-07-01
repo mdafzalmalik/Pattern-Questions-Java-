@@ -9,7 +9,7 @@ public class Pattern1 {
 		int row = 1;
 		int no_of_stars = n;
 		while(row <= n) {
-			//printing star
+			// printing stars
 			int star = 1;
 			while(star <= no_of_stars) {
 				System.out.print("* ");
